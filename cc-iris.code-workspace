@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "Reservation"
+		},
+		{
+			"path": "Commande"
+		}
+	],
+	"settings": {
+		"objectscript.conn.active": false,
+		"workbench.colorTheme": "InterSystems Default Dark"
+	}
+}
